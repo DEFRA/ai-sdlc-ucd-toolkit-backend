@@ -1,8 +1,8 @@
-# cdp-python-backend-template
+# ai-sdlc-ucd-toolkit-backend
 
 This is work-in-progress. See [To Do List](./TODO.md)
 
-- [cdp-python-backend-template](#cdp-python-backend-template)
+- [ai-sdlc-ucd-toolkit-backend](#ai-sdlc-ucd-toolkit-backend)
   - [Requirements](#requirements)
     - [Python](#python)
     - [Linting and Formatting](#linting-and-formatting)
